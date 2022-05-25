@@ -1,9 +1,6 @@
 # 💫About Me :
-🔭  I’m currently working on FLUTTER
-🌱  I’m currently learning Flutter ❤️
-👯  I’m looking to collaborate with other content creators
-🗿  I am one of the early adopters of Flutter, it has been more than 4 years
-⚡  Fun fact: I love learning new technology
+🔭  &ensp;I’m currently working on FLUTTER<br />🗿  &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
+
 
 
 ## 🌐Socials
